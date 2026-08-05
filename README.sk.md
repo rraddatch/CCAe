@@ -11,7 +11,7 @@ Colour Contrast Analyser (CCA) pomáha zistiť čitateľnosť textu a kontrast v
 
 Tento repozitár obsahuje zdrojový kód novších verzií Colour Contrast Analyser (CCA) pre Windows a macOS, postavených na [Electrone](https://electronjs.org/). Staršie, ne-Electronové verzie ("CCA Classic") nájdeš v repozitároch [CCA-Win](https://github.com/ThePacielloGroup/CCA-Win) a [CCA-OSX](https://github.com/ThePacielloGroup/CCA-OSX).
 
-![Rozhranie CCA v slovenčine](cca-sk.png)
+![Rozhranie CCA v slovenčine](cca_sk.png)
 
 Ďalšie informácie nájdeš na [stránke TPGi o Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/).
 
