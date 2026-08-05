@@ -37,7 +37,6 @@ dmg:
 win:
   icon: "build/icon.ico"
   publisherName: "Radoslav Ďurač"
-  sign: "./src/custom-sign.js"
   target:
     - target: nsis
       arch:
