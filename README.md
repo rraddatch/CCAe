@@ -1,4 +1,7 @@
 # Colour Contrast Analyser
+
+> **This is an unofficial fork** by [@rraddatch](https://github.com/rraddatch), based on [ThePacielloGroup/CCAe](https://github.com/ThePacielloGroup/CCAe). It adds a Slovak (sk) translation and a fix for a language-switching bug; these changes are also proposed upstream in [PR #387](https://github.com/ThePacielloGroup/CCAe/pull/387). Releases published from this fork are not official TPGi builds.
+
 ![GitHub (pre-)release](https://img.shields.io/github/release/thepaciellogroup/ccae/all.svg)
 ![GPL-3.0 licence](https://img.shields.io/github/license/thepaciellogroup/ccae.svg)
 
