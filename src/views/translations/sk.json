@@ -19,7 +19,9 @@
         "Zoom Out": "Oddialiť",
         "Development": "Pre vývojárov",
         "Reload": "Znova načítať",
-        "Open Developer Tools": "Otvoriť nástroje pre vývojárov"
+        "Open Developer Tools": "Otvoriť nástroje pre vývojárov",
+        "Move to previous monitor": "Presunúť na predchádzajúci monitor",
+        "Move to next monitor": "Presunúť na ďalší monitor"
     },
     "Main": {
         "lang": "sk",
@@ -97,7 +99,10 @@
         "just below": "tesne pod",
         "Between the background and foreground colors have swapped.": "Farby popredia a pozadia sa vymenili.",
         "Results copied.": "Výsledky boli skopírované.",
-        "Short results copied.": "Skrátené výsledky boli skopírované."
+        "Short results copied.": "Skrátené výsledky boli skopírované.",
+        "Version {version} is available.": "Verzia {version} je k dispozícii.",
+        "More details": "Viac podrobností",
+        "Download": "Stiahnuť"
     },
     "Deficiency": {
         "Title": "Simulácia farbosleposti",
@@ -157,6 +162,7 @@
         "Colour Contrast Analyser (CCA)": "Colour Contrast Analyser (CCA)",
         "Version": "Verzia",
         "Developed by": "Vyvinuté",
+        "Under": "Licencované pod",
         "External links": "Externé odkazy",
         "TPGi Resources": "Zdroje TPGi",
         "Github page": "Stránka CCA na GitHube",
