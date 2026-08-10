@@ -1,4 +1,4 @@
-# Colour Contrast Analyser (analyzátor farebného kontrastu)
+# Colour Contrast Analyser
 
 > **Toto je slovenský preklad README** pre [tento neoficiálny fork](https://github.com/rraddatch/CCAe) nástroja [Colour Contrast Analyser od TPGi](https://github.com/ThePacielloGroup/CCAe). Ide o predvolený README tohto repozitára. Pôvodné anglické README nájdeš v [README.en.md](README.en.md).
 
